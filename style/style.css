@@ -1,0 +1,41 @@
+body {
+    max-width: 500px;
+    margin: auto;
+    background-color: #e5e5dc;
+}
+
+.title {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    color: #26485c;
+}
+
+.miniTitle {
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    border-bottom: 3px solid grey;
+    color: #26485c;
+}
+
+.center-img {
+    width: 300px;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.paragraph {
+    text-align: justify;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.quotes {
+    text-align: justify;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+}
